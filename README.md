@@ -1,2 +1,2 @@
 # docker-node
-Adds common Pebble deps to official node.js Docker image
+Adds common npm build deps to the official node.js Dockerfile
