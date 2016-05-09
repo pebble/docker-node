@@ -10,6 +10,6 @@ Image tags mirror branch names.  For example:
 /Dockerfile
 /README.md
 ```
-Where the Dockerfile is for nodejs 4.4.4.
+Where the Dockerfile is for nodejs `4.4.4`.
 
-Creating and pushing the above would trigger a build.  Master can point to the latest stable LTS Dockerfile.
+Creating and pushing the above would trigger a build tagged `4.4.4`.  Master can point to the latest stable LTS Dockerfile.
