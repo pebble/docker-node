@@ -7,8 +7,9 @@ Image tags mirror branch names.  For example:
 ```
 [4.4.4 branch]
 /
-/Dockerfile - Dockerfile for node.js 4.4.4
-/README.md - This README
+/Dockerfile
+/README.md
 ```
+Where the Dockerfile is for nodejs 4.4.4.
 
-Creating and pushing the above would trigger a build.  Master can store the latest stable Dockerfile.
+Creating and pushing the above would trigger a build.  Master can point to the latest stable LTS Dockerfile.
