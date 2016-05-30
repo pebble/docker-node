@@ -1,5 +1,5 @@
 # docker-node
-Adds common npm build deps to the official node.js Dockerfile
+Adds common `npm` build dependencies to the [official Node.js Docker image](https://hub.docker.com/r/library/node/)
 
 ## Organization
 Currently the `master` branch is tracking nodejs current, or the `6.x` line:
