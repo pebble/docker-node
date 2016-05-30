@@ -4,10 +4,10 @@ Adds common `npm` build dependencies to the [official Node.js Docker image](http
 ## Organization
 Currently the `master` branch is tracking nodejs current, or the `6.x` line:
 
-| Branch | Release type | Versions | Latest tag |
-| ------ | ------------ | -------- | ---------- |
-| master | current      | 6.x      | 6.1.0      |
-| 4.4    | LTS          | 4.4.x    | 4.4.4      |
+| Branch | Release type | Versions |
+| ------ | ------------ | -------- |
+| master | current      | 6.x      |
+| 4.4    | LTS          | 4.4.x    |
 
 ## Adding new versions (Triggering an image build in Docker hub)
 Image tags mirror git tags.  For example:
