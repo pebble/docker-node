@@ -6,7 +6,7 @@ Currently the `master` branch is tracking nodejs current, or the `6.x` line:
 
 | Branch | Release type | Versions |
 | ------ | ------------ | -------- |
-| master | LTS          | 6.9.0    |
+| master | LTS          | 6.9.x    |
 | 4.6    | LTS          | 4.6.x    |
 | 4.5    | LTS          | 4.5.x    |
 | 4.4    | LTS          | 4.4.x    |
