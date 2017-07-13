@@ -1,4 +1,4 @@
-FROM node:6.9.1-slim
+FROM node:6.11.1-slim
 
 # Install dependencies
 RUN apt-get update \
